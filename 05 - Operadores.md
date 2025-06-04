@@ -68,3 +68,5 @@ Usados para adicionar condições
 | `&&` | E | Ambas as condições tem que ser verdadeiras |
 | `\|\|` | Ou | Apenas uma das condições tem que  |
 | `!` | Não | Inverte o valor booleano |
+
+Ir para: <a href="./06 - Estrutura Condicional.md">06 - Estrutura Condicional</a>

@@ -57,3 +57,5 @@ Para criar comentários, podemos fazer da seguinte forma:
 
 - `//`: Comentário de linha única
 - `/* */`: Comentário de multiplas linhas
+
+Ir para: <a href="./02 - Variaveis e tipos de dados.md">02 - Variáveis e tipos de dados</a>
