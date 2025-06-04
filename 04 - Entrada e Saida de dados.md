@@ -27,6 +27,7 @@ int main(){
 Para receber um dado enviado pelo usuário, usamos o comando `scanf();`, dessa forma:
 
 ```C
+
 #include<stdio.h>
 
 int main(){
@@ -34,6 +35,7 @@ int main(){
   scanf("%d",&idade);
   return 0;
 }
+
 ```
 
 A entrada de dados possuí dois itens:
