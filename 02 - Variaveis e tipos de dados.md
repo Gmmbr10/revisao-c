@@ -55,6 +55,22 @@ int main() {
 
 - **Inicializar**: você atribuí um valor a variável
 
+### Armazenando palavras
+
+Uma palavra é um conjunto de caracteres, então, para declarar uma variável para armazenar palavras fazemos da seguinte forma:
+
+```C
+
+#include<stdio.h>
+
+int main() {
+  // char nome_da_variavel[quantidade máxima de letras]
+  char nome[50]
+  return 0;
+}
+
+```
+
 ## Como nomear uma variável?
 
 Não podemos nomear as variáveis com qualquer nome.
